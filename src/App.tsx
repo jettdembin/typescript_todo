@@ -4,7 +4,7 @@ import "./App.css";
 const App: React.FC = () => {
   return (
     <div className="App">
-      <span>Taskify Testytasdfasd</span>
+      <span>Taskify Testytasdasdfasdfasdfasd</span>
     </div>
   );
 };
